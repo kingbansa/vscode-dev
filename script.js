@@ -12,5 +12,5 @@ user.name = "Pete";
 delete user.name;
 
 for (key in user) {
-    print(key + ": " + user[key]);
+    print(key);
 }
